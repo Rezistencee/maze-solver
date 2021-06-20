@@ -12,7 +12,7 @@ The rule of the right hand determines that a person in the maze must stretch his
 
 One of the drawbacks is that the right-hand rule will not be able to traverse intertwined mazes (mazes that have circular branches, etc.)
 
-##Code
+### Code
 
 Let's look at the Move_Ability function, this function is designed to check if there is a wall in the direction the person is currently looking at.
 The direction itself is regulated through the formulas:
